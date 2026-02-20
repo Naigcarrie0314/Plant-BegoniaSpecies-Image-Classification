@@ -1,0 +1,20 @@
+0 Begonia Auriculata
+1 Begonia Brevirimosa
+2 Begonia Culcullata
+3 Begonia Maculata
+4 Begonia Masoniana
+5 Begonia Plants
+6 Begonia Rex
+7 Begonia Tiger Paw
+8 Begonia  Dregei
+9 Begonia  Foliosa
+10 Begonia Imperialis
+11 Begonia Listada
+12 Begonia Luxurians
+13 Begonia Versicolor 
+14 Begonia Sutherlandii
+15 Begonia Cleopatrae 
+16 Begonia Boliviensis 
+17 Begonia Pearcei
+18 Begonia Acetosa 
+19 Begonia Mannii 
