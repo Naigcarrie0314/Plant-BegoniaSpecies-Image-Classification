@@ -1,4 +1,4 @@
-https://colab.research.google.com/drive/1X0-onKjGWgAUHFQhrRz404a2nHTG0Ffv?usp=sharing
+
 
 ## Begonia auriculata
 <img src="auriculata.jpg" width="300">
