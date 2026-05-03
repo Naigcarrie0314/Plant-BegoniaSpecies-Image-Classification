@@ -10,8 +10,8 @@ Description:
 Begonia auriculata is a decorative foliage plant known for its textured green leaves and ornamental appeal. It grows well in shaded environments and humid climates. This species is commonly cultivated for its attractive leaf structure and compact growth habit.
 
 ---
-## Begonia bevirimosa
-<img src="bevirimosa.jpg" width="300">
+## Begonia brevirimosa
+<img src="brevirimosa.jpg" width="300">
 
 Common Name: Begonia bevirimosa
 Scientific Name: Begonia bevirimosa
